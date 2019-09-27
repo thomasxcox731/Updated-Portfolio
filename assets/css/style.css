@@ -146,7 +146,8 @@ h3,h2 {
     padding: 0;
 }
 /*portfolio section*/
-.work {
+
+/* .work {
     width: 100%;
     overflow: auto;
     position: relative;
@@ -179,7 +180,8 @@ h3,h2 {
     line-height: 30px;
     margin-bottom: 0;
     font-weight: 300;
-}
+} */
+
 /*contact section*/
 #contact-form ul {
     margin-bottom: 20px;
