@@ -191,6 +191,9 @@ h3,h2 {
     margin-bottom: 0;
     font-weight: 300;
 }
+#portfolioH2 {
+    color: #26863e;
+}
 /*contact section*/
 #contact-form ul {
     margin-bottom: 20px;
