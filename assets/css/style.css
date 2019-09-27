@@ -59,12 +59,12 @@ h2, h3 {
     font-weight: 700;
     font-size: 30px;
     text-decoration: none;
-    margin-left: 240px;
+    margin-left: 160px;
 }
 nav {
     float: right;
     margin-top: 25px;
-    margin-right: 225px;
+    margin-right: 215px;
 }
 nav a {
     color: #999;
@@ -80,6 +80,7 @@ nav a:first-child {
 }
 #nav1 {
     background: #fff;
+    margin-right: 180px;
 }
 #navbarNav {
     background: #fff;
@@ -103,14 +104,21 @@ nav a:first-child {
 #resume {
     margin-left: 2px;
 }
+
 .sidebar {
     background: #fff;
     border: 1px solid #ddd;
-    padding: 30px;
-    height: 240px;
+    padding: 25px;
+    height: 275px;
+    text-align: center;
 }
 p {
     font-size: 17px;
+}
+#connect {
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: left;
 }
 
 /* .sidebar, */
@@ -131,20 +139,18 @@ h3,h2 {
     margin-right: 0;
 }
 .footer-margin {
-    background: #666;
-    color: #fff;
+    background: #fff;
+    color: #666;
     padding: 30px 0;
     clear: both;
-    border-top: 8px solid #164d24;
-    color: #ccc;
     font-size: 12px;
     text-align: center;
     margin-top: 15px;
- 
+    border-top: 2px solid #ccc;
 }
 .card-footer:last-child {
-    background: #666;
-    color: #fff;
+    background: #fff;
+    color: #666;
     padding: 0;
 }
 /*portfolio section*/
